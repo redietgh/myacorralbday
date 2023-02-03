@@ -4,7 +4,6 @@
 def evens(n):
     '''
     Returns a list of even numbers from 0 to n inclusive.
-
     >>> evens(10)
     [0, 2, 4, 6, 8, 10]
     >>> evens(11)
